@@ -1,0 +1,15 @@
+$color-lb: grey;
+$color-wht: white;
+
+.Application1 {
+    display: flex;
+    justify-content: center;
+    margin-top: -1px;
+    background-color: $color-lb;
+    padding: 40px 0;
+}
+
+.Application1 > p{
+    color : $color-wht;
+    font-size: 30px;
+}

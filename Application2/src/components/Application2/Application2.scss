@@ -1,0 +1,15 @@
+$color-lb: lightblue;
+$color-wht: white;
+
+.Application2 {
+    display: flex;
+    justify-content: center;
+    margin-top: -1px;
+    background-color: $color-lb;
+    padding: 40px 0;
+}
+
+.Application2 > p{
+    color : $color-wht;
+    font-size: 35px;
+}
